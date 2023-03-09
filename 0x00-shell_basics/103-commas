@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -lamp1 
-
+ls -amlp
